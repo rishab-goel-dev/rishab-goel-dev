@@ -4,7 +4,13 @@
 
 I turn research ideas into practical, reliable software. My interests span backend engineering, applied machine learning, and privacy in AI systems.
 
-## Selected work
+## My main work
+
+Most of my contributions go to private repositories owned by the organizations I work with. This is where the majority of my day-to-day engineering work happens.
+
+My contribution graph includes this private work as anonymized activity. The public projects below offer a small window into my interests and experiments, rather than a complete picture of my work.
+
+## Selected public work
 
 | Project | What you'll find |
 | --- | --- |
@@ -14,12 +20,10 @@ I turn research ideas into practical, reliable software. My interests span backe
 
 ## Open source
 
-I contribute to [dbt-adapters](https://github.com/dbt-labs/dbt-adapters). [Explore my pull requests](https://github.com/dbt-labs/dbt-adapters/pulls?q=is%3Apr+author%3Arishab-goel-dev).
+Alongside my organization work, I contribute to open-source projects and collaborate on improvements to the tools I use. [Explore my public pull requests](https://github.com/pulls?q=is%3Apr+author%3Arishab-goel-dev+is%3Apublic).
 
 ## What I'm interested in
 
 - Building dependable Python backend services
 - Bringing AI/ML research into useful applications
 - Understanding privacy tradeoffs in AI pipelines
-
-Private contributions are included in my GitHub contribution graph as anonymized activity.
