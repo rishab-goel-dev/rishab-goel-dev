@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rishab Goel
 
-<!--
-**rishab-goel-dev/rishab-goel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python backend & AI/ML engineer · PMY Group & Harmony · New Delhi, India**
 
-Here are some ideas to get you started:
+I turn research ideas into practical, reliable software. My interests span backend engineering, applied machine learning, and privacy in AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+| Project | What you'll find |
+| --- | --- |
+| [The GDPR Illusion](https://github.com/rishab-goel-dev/gdpr-llm-article) | An interactive article exploring privacy challenges in LLM-driven pipelines. |
+| [PDF Creator](https://github.com/rishab-goel-dev/pdf-creator) | An Express and Puppeteer service that renders web pages as PDFs. |
+| [WhatsApp Sheets Integration](https://github.com/rishab-goel-dev/whatsapp-auto) | A FastAPI service that formats sheet updates as WhatsApp notifications. |
+
+## Open source
+
+I contribute to [dbt-adapters](https://github.com/dbt-labs/dbt-adapters). [Explore my pull requests](https://github.com/dbt-labs/dbt-adapters/pulls?q=is%3Apr+author%3Arishab-goel-dev).
+
+## What I'm interested in
+
+- Building dependable Python backend services
+- Bringing AI/ML research into useful applications
+- Understanding privacy tradeoffs in AI pipelines
+
+Private contributions are included in my GitHub contribution graph as anonymized activity.
